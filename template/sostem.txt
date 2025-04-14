@@ -1,0 +1,20 @@
+# S.O.S. TEM - Seu primeiro projeto com GitHub!
+
+Este é um arquivo de exemplo para mostrar como iniciar um repositório com estrutura básica.
+
+Se você chegou até aqui, parabéns! Você já clonou o repositório e está pronta para começar a editar seus próprios arquivos!
+
+Siga os passos abaixo:
+
+1. Edite este arquivo e escreva sua primeira linha de código ou mensagem.
+
+2. Salve as alterações.
+
+3. Use os comandos `git add`, `git commit` e `git push` para enviar suas mudanças para o GitHub.
+
+4. Compartilhe seu repositório com o mundo!
+
+# Dica:
+Sempre que começar um novo projeto, pense no que outras pessoas precisam saber para entender o que ele faz. Um bom README e uma estrutura organizada fazem toda a diferença!
+
+# Hello, GitHub4Women!
