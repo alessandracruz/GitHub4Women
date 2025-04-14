@@ -82,3 +82,4 @@ Esta aula é parte da iniciativa **GitHub4Women**, com apoio das organizações:
 ## Contato
 
 e-mail: alessandraccruz@pm.me
+Linkedin: https://www.linkedin.com/in/alessandraccruz/
